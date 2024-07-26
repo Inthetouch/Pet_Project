@@ -1,4 +1,4 @@
-# Проектная работа "Веб-ларек"
+# Проект TaskFlow
 
 Стек: HTML, SCSS, TS, Webpack
 
